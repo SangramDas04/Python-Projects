@@ -1,3 +1,7 @@
+# Secret Code Language
+
+## About
+
 Here, you have to type something, and you'll be given two options: code or decode. Choose between the two options. 
 If you choose 'code', then at runtime, it'll add some random words at the beginning and at the end of the word. After that, it'll be stored in the backend so that no one can easily understand the actual word, similar to how Facebook, Instagram, and other apps store their customer information for safety purposes. 
 If you choose 'decode', then first, you have to provide the coded word as input, and then the computer will give you the original message.   
